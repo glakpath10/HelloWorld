@@ -2,7 +2,7 @@ public class Hello{
 	
 	public static void main(String args[]){
 		
-		System.out.prinln("Kavitha is my Wife!!!!!!!!!!!");
+		System.out.println("Kavitha is my Wife!!!!!!!!!!!");
 	}
 	
 }
